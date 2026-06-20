@@ -74,7 +74,10 @@ Model performance evaluated using:
 ## 📁 Project Structure
 
 ```bash
-Mobile-Churn-Prediction/
+## 📁 Project Structure
+
+
+Churn-Prediction-Python-ML-Streamlit/
 │
 ├── Notebook/
 │   └── churn_analysis.ipynb
@@ -84,11 +87,12 @@ Mobile-Churn-Prediction/
 │
 ├── screenshots/
 │   ├── home_page.png
-│   ├── prediction_page.png
+│   └── prediction_page.png
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
 ```
 
 ## 🚀 Run Streamlit App
