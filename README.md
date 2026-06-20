@@ -82,6 +82,10 @@ Mobile-Churn-Prediction/
 ├── Script/
 │   └── app.py
 │
+├── screenshots/
+│   ├── home_page.png
+│   ├── prediction_page.png
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -101,7 +105,8 @@ streamlit run Script/app.py
 
 ## 📷 Screenshots
 
-![alt text](image.png)
+![alt text](home_page.png)
+![alt text](predicaton_page.png)
 
 ## 🎯 Future Improvements
 
